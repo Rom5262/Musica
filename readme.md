@@ -4,6 +4,7 @@
 Este proyecto se enfoca en **analizar el comportamiento de consumo de música en dos ciudades específicas**. El objetivo principal es entender cómo los habitantes de cada ciudad interactúan con la música, explorando patrones y diferencias en sus hábitos de escucha.
 
 ---
+## 🚀 Explora el Proyecto
 
 ## 🎯 Objetivos del Proyecto
 
@@ -17,14 +18,6 @@ Este proyecto se enfoca en **analizar el comportamiento de consumo de música en
 
 * **Python**: Lenguaje de programación principal para el análisis de datos.
 * **Pandas**: Librería fundamental utilizada para el **análisis, limpieza y estructuración de los datos** musicales. Su capacidad para manejar y manipular grandes conjuntos de datos fue clave para este proyecto.
-
----
-
-## 🚀 Explora el Proyecto
-
-Puedes explorar todo el código y los detalles del análisis directamente en mi repositorio de GitHub:
-
-**[Haz clic aquí para ver el proyecto en GitHub](https://github.com/tu_usuario/nombre_de_tu_repo)**
 
 ---
 
@@ -42,7 +35,8 @@ Si tienes sugerencias para mejorar este análisis o encuentras algún error, ¡n
 
 ---
 
-## 👨‍💻 Desarrollado por
+## ✒️ Autor
 
 * **Román**
-* Alias: **TRom5262**
+* [Román/Rom5262]
+
